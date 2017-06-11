@@ -28,7 +28,7 @@ The structure of the model is:
 </p>
 
 ## Translation effects
-The comparisons between Google translations are listed below, right now the model is good at translating short sentences. Perhaps a max-length of 200 is too long, and training the sequences on batches based on varying lengths is necessary. 
+The comparisons to Google translations are listed below, right now the model is good at translating short sentences. Perhaps a max-length of 200 is too long, and training the sequences on batches based on varying lengths is necessary. 
 
 |English Sentence|Translated Sentence|Google Translated|
 |----------------|-------------------|-----------------|
