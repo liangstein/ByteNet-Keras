@@ -47,9 +47,9 @@ The comparison between Google translation is listed, right now the model is good
 |Je donne la parole à M. Manders pour une motion de procédure.|Mr Blak President, thank you for agreeing your proposal.|I call Mr Manders on a point of order.|
 |Monsieur le Président, je voudrais profiter de l'occasion pour vous souhaiter, ainsi qu'au Bureau et à tous les collègues, une bonne transition vers la nouvelle année.|Mr President, I wish to draw your attention to something place on Members of the House and all those who have another expected year region next.|Mr President, I would like to take this opportunity to wish you and the Bureau and all your colleagues a good transition to the New Year.|
 |Je me permettrai même, bien qu'ils soient absents, de remercier la Commission et le Conseil.|I would really like to see the views of the Commission and the Commission.|I would even like to thank the Commission and the Council, even though they are absent.|
-|Je ne rouvrirai pas le débat sur le millénaire, mais je vous souhaite à toutes et à tous et, par-là même, à tous les citoyens européens que nous représentons, une heureuse année 2000.|I cannot sit back to the defeation of the European Union, and I am well aware that consensus in Europe, and not for other countries, we will be able to at least 2000.|
-|Interruption de la session|Adjournment of the session|I will not reopen the debate on the millennium, but I wish you and all of us, and all the European citizens we represent, a happy 2000.|
-|Je déclare interrompue la session du Parlement européen.|I declare the session of the European Parliament adjourned.|I declare the session of the European Parliament interrupted.|rpose
+|Je ne rouvrirai pas le débat sur le millénaire, mais je vous souhaite à toutes et à tous et, par-là même, à tous les citoyens européens que nous représentons, une heureuse année 2000.|I cannot sit back to the defeation of the European Union, and I am well aware that consensus in Europe, and not for other countries, we will be able to at least 2000.|I will not reopen the debate on the millennium, but I wish you and all of us, and all the European citizens we represent, a happy 2000.|
+|Interruption de la session|Adjournment of the session|Interruption of session|
+|Je déclare interrompue la session du Parlement européen.|I declare the session of the European Parliament adjourned.|I declare the session of the European Parliament interrupted.|
 |(La séance est levée à 10h50)|(The sitting was closed at 10.50 a.m.)|(The sitting was closed at 10.50 am)|
 
 ## Authors
