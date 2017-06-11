@@ -8,7 +8,7 @@ French to English translator on character level implemented by Keras
 * Cuda8.0, Cudnn6.0 (If GPU is used)
 
 ## Neural Network Implementation
-ByteNet is a character level translation model designed by DeepMind. It was firstly raised in the paper [Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099). The architecture is the neural network is :
+ByteNet is a character level translation model designed by DeepMind. It was firstly raised in the paper [Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099). The architecture is the neural network is(Picture is from the paper):
 <p align="center">
   <img src="https://github.com/liangstein/ByteNet-Keras/blob/master/structure.png" width="400"/>
 </p>
@@ -17,7 +17,7 @@ ByteNet is a character level translation model designed by DeepMind. It was firs
 The dataset used is [European Parliament Proceedings Parallel Corpus v7](http://www.statmt.org/europarl/). To avoid too much training time, only 150000 sentence pairs were used. The training time on a GTX 1080 is 45 hours. After 144 epochs, the categorical crossentropy is reduced to 0.001
 
 ## Models
-The main difference between the models in the paper are:
+The main difference to the models in the paper:
 1. I've used BatchNormalization instead of LayerNormalization in the paper
 2. The dimension of the network is smaller due to a smaller dataset. The latent dimension is 500.
 
