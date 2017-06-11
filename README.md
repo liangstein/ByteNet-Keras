@@ -10,7 +10,7 @@ French to English translator on character level implemented by Keras
 ## Neural Network Implementation
 ByteNet is a character level translation model designed by DeepMind. It was firstly raised in the paper [Neural Machine Translation in Linear Time](https://arxiv.org/abs/1610.10099). The architecture is the neural network is :
 <p align="center">
-  <img src="https://github.com/liangstein/ByteNet-Keras/blob/master/structure.png" width="800"/>
+  <img src="https://github.com/liangstein/ByteNet-Keras/blob/master/structure.png" width="400"/>
 </p>
 
 ## Dataset
